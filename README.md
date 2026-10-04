@@ -8,9 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radhika-s-bab8b4276"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:radhikashar2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://cinepass-ticket-booking-system.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-CinePass-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="CinePass live demo" /></a>
-</p>
+  <a href="mailto:radhikashar2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 ---
 
